@@ -1,0 +1,13 @@
+out/
+build/
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.pch
+CMakeCache.txt
+CMakeFiles/
+.vs/
